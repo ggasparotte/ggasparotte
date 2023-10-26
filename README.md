@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Giovana
-####I'm a IT student currently on my 2nd year of college.
+I'm a IT student currently on my 2nd year of college.
 
 Skills: PYTHON / REACT / JS / HTML / CSS
 
